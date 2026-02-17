@@ -61,3 +61,22 @@ The application was deployed locally using Docker and evaluated using black-box 
 ##  Conclusion
 
 This project strengthened foundational knowledge in offensive web security by applying structured testing methodologies to a real-world vulnerable application. It demonstrates practical understanding of authentication, authorization, input validation, and client-side security risks.
+
+Key Learning Outcomes
+
+This project demonstrates practical understanding of:
+
+Broken Access Control (IDOR)
+
+Cross-Site Scripting (XSS)
+
+JWT Security Risks
+
+Business Logic Exploitation
+
+Client-Side Storage Risks
+
+API Manipulation Techniques
+
+The vulnerabilities were discovered and validated manually without automated scanners.
+
